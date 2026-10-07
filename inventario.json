@@ -1,0 +1,9 @@
+[
+    {
+        "id": 2,
+        "nombre": "Lol",
+        "precio": 20.0,
+        "stock_actual": 4,
+        "stock_minimo": 20
+    }
+]
